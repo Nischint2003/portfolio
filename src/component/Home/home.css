@@ -108,6 +108,10 @@
   .home-right {
     margin-top: 20vh;
   }
+  .type{
+    display: flex;
+    justify-content: center;
+  }
 }
 
 @media (width<1000px) {
