@@ -26,7 +26,7 @@ const About = () => {
                 <ImPointRight /> Playing Chess
               </li>
               <li className="about-activity">
-                <ImPointRight /> Reading Buisness Case Studies
+                <ImPointRight /> Reading Business Case Studies
               </li>
               <li className="about-activity">
                 <ImPointRight /> Travelling
