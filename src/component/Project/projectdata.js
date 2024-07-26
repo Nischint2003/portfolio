@@ -27,7 +27,7 @@ const projectdata = [
     image: adminpanelapp,
     title: "Mordern Admin Panel",
     description:
-      "Mordern looking admin panel to track the users and the products brought and on the top of that data visualization of the purchase data with user friendly UI.",
+      "Modern looking admin panel to track the users and the products brought and on the top of that data visualization of the purchase data with user friendly UI.",
     github: "https://github.com/Nischint2003/react-admin-panel",
     demo: "https://nischint-admin-panel.onrender.com",
     icons: [React, MaterialUI, Sass, TypeScript],
